@@ -1,0 +1,78 @@
+{
+  "Name": "NAME",
+  "School": "SCHOOL",
+  "Year": "2024",
+  "ProfilePicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/2048px-Default_pfp.svg.png",
+  "AcademicExperience": {
+    "Classes": [
+      {
+        "key": "someUniqueKey", 
+        "value": "",
+        "name": "",
+        "type": "",
+        "gradeOrScore": "A",
+        "isAp": false
+      }
+    ],
+    "Stats": {
+      "GPA": {
+        "Weighted": "",
+        "Unweighted": "",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": ""
+      },
+      "ACT": {
+        "Score": "",
+        "English": "",
+        "Math": "",
+        "Reading": "",
+        "Science": "",
+        "Writing": ""
+      },
+      "SAT": {
+        "Score": "",
+        "Math": "",
+        "Reading": "",
+        "Writing": ""
+      }
+    }
+  },
+  "Extracurriculars": {
+    "Clubs": [
+      { "key": "someUniqueKey2", "value": "", "name": "", "role": "" } 
+    ],
+    "Sports": [
+      { "key": "someUniqueKey3", "value": "", "type": "" } 
+    ],
+    "Arts": [
+      { "key": "someUniqueKey4", "value": "", "type": "" } 
+    ]
+  },
+  "CommunityService": [
+    { "key": "someUniqueKey5", "value": "", "hours": "0", "location": "" },
+    { "key": "someUniqueKey6", "value": "", "hours": "0", "location": "" },
+    { "key": "someUniqueKey7", "value": "", "hours": "0", "location": "" },
+    { "key": "someUniqueKey8", "value": "", "hours": "0", "location": "" }
+  ],
+  "WorkExperience": {
+    "Experiences": [
+      {
+        "key": "someUniqueKey9",
+        "value": "",
+        "jobTitle": "",
+        "start": "",
+        "end": ""
+      }
+    ],
+    "Skills": [
+      {
+        "key": "someUniqueKey10",
+        "value": "",
+        "skill": "",
+        "expertise": "Beginner"
+      }
+    ]
+  }
+}

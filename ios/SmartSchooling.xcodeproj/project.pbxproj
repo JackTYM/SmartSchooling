@@ -43,6 +43,25 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-SmartSchooling.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartSchooling.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SmartSchooling/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-SmartSchooling-SmartSchoolingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartSchooling-SmartSchoolingTests.release.xcconfig"; path = "Target Support Files/Pods-SmartSchooling-SmartSchoolingTests/Pods-SmartSchooling-SmartSchoolingTests.release.xcconfig"; sourceTree = "<group>"; };
+		AEBC3BB42BD447F20053DBD9 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		AEBC3BB52BD447F20053DBD9 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		AEBC3BB62BD447F20053DBD9 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		AEBC3BB72BD447F20053DBD9 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		AEBC3BB82BD447F20053DBD9 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		AEBC3BB92BD447F20053DBD9 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		AEBC3BBA2BD447F20053DBD9 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		AEBC3BBB2BD447F20053DBD9 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		AEBC3BBC2BD447F20053DBD9 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		AEBC3BBD2BD447F20053DBD9 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		AEBC3BBE2BD447F20053DBD9 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		AEBC3BBF2BD447F20053DBD9 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		AEBC3BC02BD447F20053DBD9 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		AEBC3BC12BD447F20053DBD9 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		AEBC3BC22BD447F20053DBD9 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		AEBC3BC32BD447F20053DBD9 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		AEBC3BC42BD447F20053DBD9 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		AEBC3BC52BD447F20053DBD9 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		AEBC3BC62BD447F20053DBD9 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -116,6 +135,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				AEBC3BC72BD447F20053DBD9 /* Fonts */,
 				13B07FAE1A68108700A75B9A /* SmartSchooling */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* SmartSchoolingTests */,
@@ -135,6 +155,33 @@
 				00E356EE1AD99517003FC87E /* SmartSchoolingTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		AEBC3BC72BD447F20053DBD9 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AEBC3BB42BD447F20053DBD9 /* AntDesign.ttf */,
+				AEBC3BB52BD447F20053DBD9 /* Entypo.ttf */,
+				AEBC3BB62BD447F20053DBD9 /* EvilIcons.ttf */,
+				AEBC3BB72BD447F20053DBD9 /* Feather.ttf */,
+				AEBC3BB82BD447F20053DBD9 /* FontAwesome.ttf */,
+				AEBC3BB92BD447F20053DBD9 /* FontAwesome5_Brands.ttf */,
+				AEBC3BBA2BD447F20053DBD9 /* FontAwesome5_Regular.ttf */,
+				AEBC3BBB2BD447F20053DBD9 /* FontAwesome5_Solid.ttf */,
+				AEBC3BBC2BD447F20053DBD9 /* FontAwesome6_Brands.ttf */,
+				AEBC3BBD2BD447F20053DBD9 /* FontAwesome6_Regular.ttf */,
+				AEBC3BBE2BD447F20053DBD9 /* FontAwesome6_Solid.ttf */,
+				AEBC3BBF2BD447F20053DBD9 /* Fontisto.ttf */,
+				AEBC3BC02BD447F20053DBD9 /* Foundation.ttf */,
+				AEBC3BC12BD447F20053DBD9 /* Ionicons.ttf */,
+				AEBC3BC22BD447F20053DBD9 /* MaterialCommunityIcons.ttf */,
+				AEBC3BC32BD447F20053DBD9 /* MaterialIcons.ttf */,
+				AEBC3BC42BD447F20053DBD9 /* Octicons.ttf */,
+				AEBC3BC52BD447F20053DBD9 /* SimpleLineIcons.ttf */,
+				AEBC3BC62BD447F20053DBD9 /* Zocial.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -413,6 +460,7 @@
 			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-SmartSchooling-SmartSchoolingTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = AS6BXJVVHP;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -429,7 +477,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.smartschooling.fbla;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SmartSchooling.app/SmartSchooling";
 			};
@@ -441,6 +489,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = AS6BXJVVHP;
 				INFOPLIST_FILE = SmartSchoolingTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -453,7 +502,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.smartschooling.fbla;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SmartSchooling.app/SmartSchooling";
 			};
@@ -466,8 +515,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = AS6BXJVVHP;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = SmartSchooling/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Smart Schooling";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -478,7 +530,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.smartschooling.fbla;
 				PRODUCT_NAME = SmartSchooling;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -493,7 +545,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = AS6BXJVVHP;
 				INFOPLIST_FILE = SmartSchooling/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Smart Schooling";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -504,7 +559,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.smartschooling.fbla;
 				PRODUCT_NAME = SmartSchooling;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -580,10 +635,7 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
@@ -651,10 +703,7 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
